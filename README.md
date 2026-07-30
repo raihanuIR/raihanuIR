@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/raihanuIR">
-    <img src="https://github-profile-trophy.vercel.app/?username=raihanuIR&theme=darkhub" alt="Raihanul's GitHub Trophies" />
+    <img src="https://github-profile-trophy-two.vercel.app/?username=raihanuIR&theme=darkhub" alt="Raihanul's GitHub Trophies" />
   </a>
 </p>
 
