@@ -81,18 +81,16 @@
 
 <h3 align="left">📊 GitHub Activity and Stats:</h3>
 
+
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=raihanuIR&theme=dark" alt="raihanuIR" />
+</p>
+<br />
+
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihanuIR&theme=2077" alt="raihanuIR" />
 </p>
 
 <br />
 
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=raihanuIR&theme=dark" alt="raihanuIR" />
-</p>
 
-<br />
-
-<p align="center">
-  <img align="center" src="https://ghchart.rshah.org/raihanuIR" alt="Raihanul's Github Contributions" width="100%" />
-</p>
