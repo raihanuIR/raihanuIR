@@ -14,10 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=raihanuIR&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="raihanuIR" /> 
 </p>
 
+<!-- Contribution Snake Animation -->
 <p align="center">
-  <a href="https://github.com/raihanuIR">
-    <img src="https://github-profile-trophy-two.vercel.app/?username=raihanuIR&theme=darkhub" alt="Raihanul's GitHub Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/raihanuIR/raihanuIR/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
