@@ -48,7 +48,7 @@
   <a href="https://github.com/raihanuIR">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a> &nbsp;
-  <a href="https://linkedin.com/in/raihanul-islam">
+  <a href="https://www.linkedin.com/in/raihanul-islam-6268aa426">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
